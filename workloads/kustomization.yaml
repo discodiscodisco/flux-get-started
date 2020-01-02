@@ -1,4 +1,5 @@
 resources:
 - podinfo-dep.yaml
+- podinfo-dep-foo.yaml
 - podinfo-hpa.yaml
 - podinfo-svc.yaml
